@@ -1,4 +1,15 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: app/helpers/static_pages_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2014-05-18 20:41:55.998000 -04:00
+  - :path: .gitignore
+    :cursor_offset: 273
+    :timestamp: 2014-05-14 21:59:24.094000 -04:00
+  - :path: Gemfile
+    :cursor_offset: 569
+    :timestamp: 2014-05-14 21:54:07.106000 -04:00
+  - :path: config/initializers/secret_token.rb
+    :cursor_offset: 883
+    :timestamp: 2014-05-15 20:13:16.649000 -04:00
 files_to_retain: 0
