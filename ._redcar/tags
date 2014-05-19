@@ -1,7 +1,11 @@
-1400200669
+1400460853
 Application	C:/Sites/tutorial/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/Sites/tutorial/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/tutorial/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 SampleApp	C:/Sites/tutorial/sample_app/config/application.rb	module SampleApp
+StaticPagesController	C:/Sites/tutorial/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	C:/Sites/tutorial/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
 TestCase	C:/Sites/tutorial/sample_app/test/test_helper.rb	class ActiveSupport::TestCase
+help	C:/Sites/tutorial/sample_app/app/controllers/static_pages_controller.rb	  def help
+home	C:/Sites/tutorial/sample_app/app/controllers/static_pages_controller.rb	  def home
 secure_token	C:/Sites/tutorial/sample_app/config/initializers/secret_token.rb	def secure_token
